@@ -59,7 +59,7 @@ int main() {
 
 	}
 	else if (ans == numin[4]) num = 5;
-	printf("%d %d\n", num, ans);
+	printf("\n%d %d\n", num, ans);
 
 	return 0;
 }
